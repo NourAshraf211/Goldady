@@ -5,4 +5,4 @@ This is a simple UI development project for one page of the "Goldady" website, H
 
 if you want to run and test it, please make a clone or download it in a zip file
 OR
-You can check this link "https://nourashraf211.github.io/Goldady/" for a live demo (copy it).
+You can check this link "https://nourashraf211.github.io/Goldady/" for a live demo.
